@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Sum {
 
     public static void main(String[] args) {
         int sum=0,i;
