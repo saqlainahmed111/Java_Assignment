@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class largest_of_n {
+public class Largest_of_n {
     public static void main(String[] args) {
         int large,n;
         int []a=new int[20];
