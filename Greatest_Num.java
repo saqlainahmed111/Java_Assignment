@@ -1,7 +1,7 @@
 /**
  * greatest Among 3 numbers
  */
-public class Greatest_3 {
+public class Greatest_Num {
 
     public static void main(String[] args) {
         int first=2;
